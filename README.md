@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jenil Laheri</h1>
 <h3 align="center">A passionate Full stack developer (MERN) from India</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **AWS (Amazon Web Service)**
 
-- 💬 Ask me about **react,node,mongodb**
+- 💬 Ask me about **React,Node,Express,MongoDB**
 
 - 📫 How to reach me **jblaheri@gmail.com**
 
